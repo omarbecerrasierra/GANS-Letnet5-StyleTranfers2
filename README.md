@@ -1,2 +1,3 @@
 # GANS-Letnet5-StyleTranfers2
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://youtu.be/OFroJh6pm8o)
+[![Watch the video](https://youtu.be/z14PRjIu_UE)
